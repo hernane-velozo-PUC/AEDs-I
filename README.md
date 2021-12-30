@@ -1,2 +1,1 @@
-# Algoritmos e Estrtutura de Dados I - AEDs I
-Algoritmos e Estrtutura de Dados I
+# Algoritmos e Estrutura de Dados I - AEDs I
