@@ -3,7 +3,7 @@
 Pontifícia Universidade Católica de Minas Gerais | Algoritmos e Estruturas de Dados I
 
 # Autor: Hernane Velozo                                                                                          
-#Exercício: 
+# Exercício: 
 
 7) Faça um algoritmo que solicita o valor de 3 notas (n1, n2 e n3) e depois mostra: a soma e a média das notas.
 ***************************************************************************************************************/

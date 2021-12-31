@@ -3,7 +3,7 @@
 Pontifícia Universidade Católica de Minas Gerais | Algoritmos e Estruturas de Dados I
 
 # Autor: Hernane Velozo                                                                                          
-#Exercício: 
+# Exercício: 
 
 6) Faça um algoritmo que solicita para o usuário um número inteiro n (digitado) e posteriormente 
 o  sistema mostra o sucessor de n (ex. se o usuário digitou 15, o sistema deverá imprimir 16).

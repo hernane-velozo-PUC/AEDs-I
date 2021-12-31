@@ -3,7 +3,7 @@
 Pontifícia Universidade Católica de Minas Gerais | Algoritmos e Estruturas de Dados I
 
 # Autor: Hernane Velozo                                                                                          
-#Exercício: 
+# Exercício: 
 
 8) Faça um programa que calcule a média de consumo de combustível de um veículo. O usuário deve informar
 o KM inicial (ex. 13.000 km), o KM final (ex. 15.000 km) e quantos litros foram gastos no percurso.
