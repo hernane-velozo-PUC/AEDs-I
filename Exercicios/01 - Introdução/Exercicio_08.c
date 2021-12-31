@@ -15,26 +15,27 @@ o KM inicial (ex. 13.000 km), o KM final (ex. 15.000 km) e quantos litros foram 
 int main(){
 
     //Definicao de variavel
-    float inicial, final, litros, soma, media;
+    float inicial, final, litros, distancia, media;
 
     //Impressão e leitura do usuário
-    printf("\nInforme a primeira nota: ");
-    scanf("%f", &n1);
+    printf("\nInforme o KM inicial..............: ");
+    scanf("%f", &inicial);
 
-    printf("\nInforme a segunda nota: ");
-    scanf("%f", &n2);
+    printf("\nInforme o KM final................: ");
+    scanf("%f", &final);
 
-    printf("\nInforme a terceira nota: ");
-    scanf("%f", &n3);
+    printf("\nInforme a qtd de litros Gastos....: ");
+    scanf("%f", &litros);
 
     //calculo da operação
-    soma = n1 + n2 + n3;    
-    media = soma / 3;
+    distancia = final - inicial;    
+    media = distancia / litros;
 
     //apresentação na tela do usuário
-    printf("\nNotas informadas: %.2f, %.2f e %.2f", n1, n2, n3);
-    printf("\nSoma....: %.2f", soma);
-    printf("\nMedia...: %.2f\n", media);
+    printf("\nKM Inicial %.2f e KM Final %.2f", inicial, final);
+    printf("\nDistancia............: %.2f", distancia);
+    printf("\nLitros Consumidos....: %.2f", litros);
+    printf("\nMedia Consumo........: %.2f\n", media);
 
     printf("\n\n");
 
